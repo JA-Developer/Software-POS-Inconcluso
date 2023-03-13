@@ -51,6 +51,13 @@ The requirements for running the software are:
   <li>Microsoft Office Access.</li>
 </ul>
 
+To log in to the software, use the following credentials:
+
+<ul>
+  <li><b>User:</b> Admin</li>
+  <li><b>Password:</b> Admin</li>
+</ul>
+
 ## Contributing
 
 This software was developed by Jesús Sánchez Palma, with the help of Anthomy Vega and Oscar Benitez.
