@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater.csproj", "{514047E8-5C08-429A-8276-72E455140B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{514047E8-5C08-429A-8276-72E455140B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514047E8-5C08-429A-8276-72E455140B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514047E8-5C08-429A-8276-72E455140B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514047E8-5C08-429A-8276-72E455140B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
